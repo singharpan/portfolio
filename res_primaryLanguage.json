@@ -94,38 +94,26 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Excellence Technologies Pvt. Ltd.",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "03.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
+          "React",
+          "Redux",
+          "Redux-Saga",
           "REST API",
-          "RxJS",
           "JavaScript",
+          "Git",
+          "TDD",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React-Boostrap",
+          "Material UI",
+          "Ant Design"
         ]
       }
+     
     ]
   }

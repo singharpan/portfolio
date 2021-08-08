@@ -29,6 +29,21 @@
           "level": "80"
         },
         {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "NextJs",
+          "class": "devicon-nextjs-original",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -39,16 +54,7 @@
           "level": "95"
         },
      
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
+     
         {
           "name": "Sass",
           "class": "devicon-sass-original",

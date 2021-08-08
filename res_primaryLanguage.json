@@ -16,22 +16,34 @@
         "description": "This is Personalized fresh home cooking portal,the customer can have weekly,monthly subscription for there personalized food.The most expanded application I had opportunity to work with. ",
         "images": [
           "images/portfolio/zesty/01.jpg",
-          "images/portfolio/zesty/02.jpg"
-    
+          "images/portfolio/zesty/02.jpg",
+          "images/portfolio/zesty/03.jpg",
+          "images/portfolio/zesty/04.jpg",
+          "images/portfolio/zesty/05.jpg",
+          "images/portfolio/zesty/06.jpg",
+          "images/portfolio/zesty/07.jpg"
         ],
-        "url": "",
+        "url": "https://autopilot.feelzesty.com/",
         "technologies": [
           {
             "class": "devicon-react-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-redux-original",
+            "name": "Redux"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "React-Boostrap"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
           }
         ]
       },
@@ -40,7 +52,6 @@
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/zesty/01.jpg",
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
